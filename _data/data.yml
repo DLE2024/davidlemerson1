@@ -14,11 +14,11 @@ sidebar:
 
     # Sidebar links
     email: example@email.com
-    phone: 012 345 6789
+    phone: 716 445 6742
     timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
     website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
+    linkedin: david Emerson
     xing: alandoe
     github: jekyll
     telegram: # add your nickname without '@' sign
@@ -58,7 +58,7 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: Who I Am
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
@@ -93,7 +93,7 @@ education:
             - Bullet point
 
 experiences:
-    title: Experiences
+    title: What I do
     info:
       - role: Lead Developer
         time: 2015 - Present
