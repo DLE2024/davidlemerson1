@@ -54,18 +54,15 @@ sidebar:
 career-profile:
     title: Who I Am
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      An Experienced Business Intelligence and Data Information Management Pofessional
+      developing and delivering business intelligence tools, ETL processes and Analytics.
+      
 education:
     title: Education
     info:
       - degree: MSc in Computer Science
         university: University of London
-        time: 2011 - 2012
+        
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -240,7 +237,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python
         level: 98%
 
       - name: Javascript & jQuery
