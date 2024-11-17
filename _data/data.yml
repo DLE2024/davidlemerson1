@@ -83,9 +83,9 @@ education:
 
 experiences:
     title: What I do
-    info:
+    details: |
       Ive developed numerous dashboards and ETL processes for multiple business entities ​
-      for KPIs analysis and business analysis using state of the artvisual analytical software tools.
+      for KPI and business analysis using state of the art visual analytical software tools.
           
       - role: UI Developer
         time: 2012 - 2014
