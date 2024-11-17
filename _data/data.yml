@@ -96,8 +96,7 @@ experiences:
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
           pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Bullet point         
 
 Licences and certifications:
       title: Certifications
@@ -144,23 +143,19 @@ projects:
       - title: Atom
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-                
+                      
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python
+      - name: Power BI
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Tableau
         level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: Qlik
+        level: 80%
 
       - name: HTML5 & CSS
         level: 95%
@@ -168,7 +163,7 @@ skills:
       - name: Ruby on Rails
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Python
         level: 60%
 
 footer: >
