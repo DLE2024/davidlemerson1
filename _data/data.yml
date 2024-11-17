@@ -18,7 +18,7 @@ sidebar:
     timezone: America/Eastern # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship: USA
     website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: david-emerson-a325863a
+    linkedin: david-emerson-a325863a/
     xing: alandoe
     github: DLE2024
     telegram: # add your nickname without '@' sign
@@ -42,26 +42,26 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Hiking
           link:
 
-        - item: Snowboarding
+        - item: Traveling
           link:
 
-        - item: Cooking
+        - item: Scuba Diving
           link:
 
 career-profile:
     title: Who I Am
     summary: |
       An Experienced Business Intelligence and Data Information Management Pofessional
-      developing and delivering business intelligence tools, ETL processes and Analytics.
+      Expert at developing and delivering business intelligence tools, ETL processes and Analytics.
       
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
+      - degree: BA Economics 
+        university: SUNY at Buffalo
         
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -71,9 +71,8 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: AAS Business Administration
+        college: Erie Community College
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
