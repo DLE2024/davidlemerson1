@@ -82,8 +82,8 @@ education:
             - Bullet point
 
 experiences:
-    title: What I do
-    fa-stack fa-xs: |
+    title: What I do do
+    fa-stack fa-xs: 
       Ive developed numerous dashboards and ETL processes for multiple business entities ​
       for KPI and business analysis using state of the art visual analytical software tools.
           
