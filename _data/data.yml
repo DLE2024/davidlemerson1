@@ -83,7 +83,7 @@ education:
 
 experiences:
     title: What I do
-    item: |
+    section-title: |
       Ive developed numerous dashboards and ETL processes for multiple business entities ​
       for KPI and business analysis using state of the art visual analytical software tools.
           
