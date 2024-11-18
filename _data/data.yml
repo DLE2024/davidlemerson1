@@ -80,21 +80,28 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-
 experiences:
-    title: What I do do
-    fa-stack fa-xs: 
-      Ive developed numerous dashboards and ETL processes for multiple business entities ​
-      for KPI and business analysis using state of the art visual analytical software tools.
+    title: Experiences What I do
+    info:
+      - role: Lead Developer
+        time: 2015 - Present
+        company: Startup Hubs, San Francisco
+        details: |
           
-   
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          Ive developed numerous dashboards and ETL processes for multiple business entities ​
+          for KPI and business analysis using state of the art visual analytical software tools.
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-           Cum sociis natoque penatibus et magnis dis parturient montes,
-           nascetur ridiculus mus. Donec quam felis, ultricies nec,
-           pellentesque eu, pretium quis, sem.
-             - Bullet point         
-
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+          error sit voluptatem accusantium doloremque laudantium, totam rem
+          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+          architecto beatae vitae dicta sunt explicabo.
+            - Bullet point
+            - Bullet point
+       
 Licences and certifications:
       title: Certifications
       list:
