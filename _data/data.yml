@@ -96,7 +96,7 @@ certifications:
       title: Certifications
       list:
         - name: Learning Python
-          start: 2022
+          start: 
           end: 2022
           organization: Linkedin
           credentialid: 
