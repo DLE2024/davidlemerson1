@@ -71,7 +71,8 @@ education:
             - Bullet point
             - Bullet point
       - degree: AAS Business Administration
-        college: Erie Community College
+        university: Erie Community College
+        
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
