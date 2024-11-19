@@ -103,7 +103,7 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: LearningPython
+        - name: Learning Python
           start: 2020
           end: 2021
           organization: Linkedin
@@ -166,4 +166,4 @@ skills:
         level: 60%
 
 footer: >
-    Designed David Emerson</a>
+    Designed by David Emerson</a>
