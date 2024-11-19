@@ -100,29 +100,18 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-       
-Licences and certifications:
+ certifications:
       title: Certifications
       list:
         - name: Learning Python (2020)
-          organization: Linkedin
-          
-        - name: Git learning
-          start: 2019
-          end:
+          start: 2020
+          end: 2021
           organization: Microsoft
           credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          credentialurl: www.google.com
+          credentialname: Google
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Details about cert. Lorem ipsum dolor sit amet, consectetur      
 
 projects:
     title: Projects
@@ -170,4 +159,4 @@ skills:
         level: 60%
 
 footer: >
-    Designed David Emerson</a>
+    Designed by David Emerson</a>
