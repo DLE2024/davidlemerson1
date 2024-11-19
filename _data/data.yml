@@ -106,7 +106,7 @@ experiences:
         - name: Learning Python (2020)
           start: 2020
           end: 2021
-          organization: Microsoft
+          organization: Linkedin
           credentialid: 111-222
           credentialurl: www.google.com
           credentialname: Google
