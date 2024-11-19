@@ -103,7 +103,7 @@ experiences:
  certifications:
       title: Certifications
       list:
-        - name: Learning Python (2020)
+        - name: Learning Python
           start: 2020
           end: 2021
           organization: Linkedin
