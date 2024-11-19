@@ -83,7 +83,7 @@ education:
 experiences:
     title: What I do
     info:
-      - role: Data Analyst
+      - role: Data & Analytics Analyst
         time: 2008 - Present
         company: HSBC Bank USA, M & T Bank
         details: |
@@ -160,11 +160,11 @@ skills:
       - name: Qlik
         level: 80%
 
-      - name: HTML5 & CSS
+      - name: Report Builder
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: SAS
+        level: 98%
 
       - name: Python
         level: 60%
