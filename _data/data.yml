@@ -98,7 +98,7 @@ certifications:
         - name: Learning Python
           start: 
           end: 2022
-          organization: Linkedin
+          organization: Linkedin Learning
           credentialid: 
           credentialurl: www.linkedin.com
           credentialname: 
@@ -107,12 +107,13 @@ certifications:
         - name: Agile Foundations
           start:
           end: 2021
-          organization: Linkedin
+          organization: Linkedin Learning
           credentialid: 
           credentialurl: 
           credentialname: 
           details: |
             Agile Methodologies
+            
             Agile Project Management
                                   
 projects:
