@@ -122,8 +122,11 @@ certifications:
           credentialurl: 
           credentialname: 
           details: |
-            Agile Methodologies.            
-            Agile Project Management                         
+            Generate descriptive statistics and explore data with graphs.
+            Perform analysis of variance and apply multiple comparison techniques.
+            Perform linear regression and assess the assumptions.
+            Fit a multiple logistic regression model.
+            Score new data using developed models.                     
 projects:
     title: Projects
     intro: >
