@@ -142,9 +142,9 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Decision Engine Build
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Developed numerous SMG3 decision software designs for various credit products in the banking industry."
 
       - title: DevStudio
         link: "#"
