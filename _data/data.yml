@@ -123,9 +123,7 @@ certifications:
           details: |
             Generate descriptive statistics and explore data with graphs.
             Perform analysis of variance and apply multiple comparison techniques.
-            Perform linear regression and assess the assumptions.
-            Fit a multiple logistic regression model.
-            Score new data using developed models. 
+            Fit a multiple logistic regression model.  Score new data using developed models. 
         - name: Open Water Scuba Diver
           start:
           end: 2023
