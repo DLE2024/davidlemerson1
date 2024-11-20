@@ -123,7 +123,7 @@ certifications:
           details: |
             Generate descriptive statistics and explore data with graphs.
             Perform analysis of variance and apply multiple comparison techniques.
-            Fit a multiple logistic regression model and Score new data. 
+            Fit a multiple logistic regression model. 
         - name: Open Water Scuba Diver
           start:
           end: 2023
@@ -170,12 +170,19 @@ skills:
 
       - name: Report Builder
         level: 95%
+        
       - name: SQL Server
         level: 98%
-
+        
+      - name: SSIS/SSMS
+        level: 90%
+        
       - name: SAS
         level: 98%
-
+        
+      - name: R Studio
+        level: 75%
+        
       - name: Python
         level: 60%
         
