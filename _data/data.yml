@@ -104,8 +104,7 @@ certifications:
           credentialname: 
           details: |
             Python programming language basics.
-      list:
-        -name: Agile Foundations
+         -name: Agile Foundations
              
 projects:
     title: Projects
