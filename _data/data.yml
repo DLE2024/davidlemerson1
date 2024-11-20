@@ -173,6 +173,8 @@ skills:
 
       - name: Report Builder
         level: 95%
+      - name: SQL Server
+        level: 98%
 
       - name: SAS
         level: 98%
