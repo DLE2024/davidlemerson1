@@ -138,9 +138,8 @@ certifications:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Notable projects completed:
+      
     assignments:
       - title: Decision Engine Build
         link: "#hook"
