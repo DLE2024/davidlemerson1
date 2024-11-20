@@ -180,6 +180,9 @@ skills:
 
       - name: Python
         level: 60%
+        
+      - name: GIT
+        level: 55%
 
 footer: >
     Designed by David Emerson</a>
