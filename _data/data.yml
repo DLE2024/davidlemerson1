@@ -105,17 +105,16 @@ certifications:
           details: |
             Python programming language basics.
         - name: Agile Foundations
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          start:
+          end: 2021
+          organization: Linkedin
+          credentialid: 
+          credentialurl: 
+          credentialname: 
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-                      
+            Agile Methodologies
+            Agile Project Management
+                                  
 projects:
     title: Projects
     intro: >
