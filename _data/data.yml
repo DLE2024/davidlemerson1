@@ -114,7 +114,16 @@ certifications:
           details: |
             Agile Methodologies.            
             Agile Project Management
-                                  
+        - name: Statistics 1 :Introduction to ANOVA, Regression, and Logistic Regressions
+          start:
+          end: 2019
+          organization: SAS
+          credentialid: 
+          credentialurl: 
+          credentialname: 
+          details: |
+            Agile Methodologies.            
+            Agile Project Management                         
 projects:
     title: Projects
     intro: >
